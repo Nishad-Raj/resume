@@ -51,7 +51,8 @@ a {
 }
 
 a:hover{
-  color: #EAF6F6;
+  color: #e8505b;
+  font-size: 1.02rem;
 }
 
 /**class selector**/
